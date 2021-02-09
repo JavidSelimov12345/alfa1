@@ -1354,10 +1354,11 @@ ul {
 .header-style4-area .main-header-area .my-search-style {
   margin: 15px 20px 0 0;
   width: 80%;
-  float: left;
+  display: flex;
+  /* float: left; */
 }
 .header-style4-area .main-header-area .my-search-style .form-control {
-  color: #ffffff;
+  color: #8f8d8d;
   border-radius: 30px 0 0 30px;
   border: none !important;
   background: #ffffff !important;
@@ -1369,6 +1370,10 @@ ul {
   background: #ffffff !important;
   border: none !important;
   border-radius: 0 30px 30px 0;
+
+  
+    
+
 }
 .header-style4-area .main-header-area .my-search-style .input-group-addon button {
   border: 0;
@@ -5914,6 +5919,9 @@ ul {
 .shopBox2{
   width:180px;
  
+}
+.input-group-addon button i{
+  margin-left: -15px;margin-top: 3px;
 }
 
 
