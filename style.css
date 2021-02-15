@@ -3914,12 +3914,12 @@ ul {
 .page-news-area .inner-page-news-area .inner-page-news-box .inner-news-box-top .news-published .news-date {
   padding: 12px 0 7px 0;
   line-height: 18px;
-  background: #26466B;
+  background: #1B252F;
   font-size: 16px;
   font-weight: 600;
 }
 .page-news-area .inner-page-news-area .inner-page-news-box .inner-news-box-top .news-published .news-year {
-  background: #222222;
+  background: #1B252F;
   padding: 5px 0;
 }
 .page-news-area .inner-page-news-area .inner-page-news-box .inner-news-box-top img {
@@ -3974,7 +3974,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .page-news-area .inner-page-news-area .inner-page-news-box .inner-news-box-bottom h4:hover a {
-  color: #ffbe00;
+  color: #1B252F;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
