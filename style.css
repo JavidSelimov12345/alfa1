@@ -5619,10 +5619,10 @@ ul {
   margin-bottom: 3px;
 }
 .sidebar .popular-tags-box ul li a {
-  color: #6b6b6b;
+  color: white;
   font-weight: 600;
   padding: 5px 17px;
-  background: #efefef;
+  background: #1B252F;
   display: block;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -5631,7 +5631,7 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .sidebar .popular-tags-box ul li a:hover {
-  background: #9e9e9c;
+  background: #b11e22;
   color: #ffffff;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -5945,6 +5945,8 @@ th, td {
 tr:nth-child(even) {
   background-color: #f2f2f2;
 }
+
+
 
 
 
