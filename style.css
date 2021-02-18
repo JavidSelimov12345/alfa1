@@ -5297,7 +5297,7 @@ ul {
   padding: 5px 12px;
   opacity: 1;
   margin: 2px;
-  top: 30px;
+  top: 40%;
   border: 1px solid #b11e22
   ;
 }
@@ -5328,7 +5328,7 @@ ul {
 }
 .brand-area .brand .owl-controls .owl-next {
   border: 1px solid #b11e22;
-  top: 30px;
+  top: 40%;
   right: -45px;
   position: absolute;
   margin: 2px;
@@ -5944,6 +5944,10 @@ th, td {
 }
 tr:nth-child(even) {
   background-color: #f2f2f2;
+}
+.box2{
+  height: 206px !important;
+  background-color: transparent !important;
 }
 
 
