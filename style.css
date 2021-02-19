@@ -622,7 +622,7 @@ ul {
   content: "";
   height: 3px;
   width: 50px;
-  background: #727273;
+  background: #b11e22;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -708,7 +708,7 @@ ul {
 .sidebar-title:after {
   content: "";
   position: absolute;
-  background: #727272;
+  background: #b11e22;
   height: 3px;
   width: 50px;
   bottom: 0;
@@ -2865,7 +2865,7 @@ ul {
   position: absolute;
   left: 0;
   bottom: 0;
-  background: #ffbe00;
+  background: #b11e22;
 }
 .page-about-us-area .page-about-us-left p {
   margin-bottom: 25px;
@@ -5620,10 +5620,11 @@ ul {
   margin-bottom: 3px;
 }
 .sidebar .popular-tags-box ul li a {
-  color: white;
+  color: black;
   font-weight: 600;
   padding: 5px 17px;
-  background: #1B252F;
+  border: 1px solid #b11e22;
+  background-color: transparent;
   display: block;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
