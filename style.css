@@ -316,13 +316,11 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .btn-read-more-fill {
-  background: #727273
-  ;
+  background-color: transparent;
   padding: 14px 30px;
-  border: 2px solid#727273
-  ;
+  border: 2px solid#b11e22;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #b11e22;
   font-weight: 600;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
@@ -335,8 +333,8 @@ ul {
   padding-left: 10px;
 }
 .btn-read-more-fill:hover {
-  color: #222222;
-  background: transparent;
+  color: white;
+  background: #b11e22;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
