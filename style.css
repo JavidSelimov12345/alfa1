@@ -5952,6 +5952,21 @@ tr:nth-child(even) {
   background-color: transparent !important;
 }
 
+.botton{
+  background-color: transparent;
+  border:1px solid white;
+  padding:5px 15px 5px 15px;
+   color:white;
+   font-size: 1.5rem;
+   transition: 0.6s;
+}
+.botton:hover{
+
+  color:white;
+  background-color:#1B252F;
+
+}
+
 
 
 
